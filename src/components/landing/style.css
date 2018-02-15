@@ -1,0 +1,91 @@
+body{
+   height:100%;
+}
+.txt-white{
+   color:white;
+}
+.ksection{
+   border: 25px solid #222;
+   border-bottom: none;
+   margin-bottom: -2rem;
+   min-height: 40rem;
+}
+footer{
+   border: 25px solid #222;
+   min-height: 10rem;
+}
+.landing-cover{
+   background: #2b2d34 url(http://breuerstudios.com/images/pexels-photo-264109.jpeg) center;
+   background-blend-mode: overlay;
+   background-size: cover;
+   height: auto;
+   border-radius: 0;
+   width: 100%;
+   color: #fff;
+   padding-top: 1rem;
+}
+.cover-jumbo.jumbotron{
+   background-color: transparent;
+}
+.btn-outline-white{
+    background: none;
+    color: #fff;
+    border-color: #fff;
+    margin-right: 10px;
+}
+.btn-white{
+    background: white;
+    color: black;
+    border-color: #fff;
+    margin-right: 10px;
+}
+.cover-nav-logo img{
+   display: inline-block;
+   argin-left: 4rem;
+   width: 5rem;
+}
+
+.how-works{
+   min-height: 50rem;
+   background: pink;
+   padding-top: 2rem;
+}
+.how-works-title{
+
+}
+/* ======================== */
+/* SIGNUP PAGE */
+/* ========================== */
+
+.signup-page{
+   background: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 1)), url(http://breuerstudios.com/images/pexels-photo-325521.jpeg) no-repeat center center fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+ min-height: 100vh;
+}
+.signup-panel{
+   padding-top: 7rem;
+   max-width: 150rem;
+}
+.sipa{
+   min-height: 30rem;
+}
+.cu-fo-1{
+
+   border:none;
+   border-radius: 0;
+   border-bottom: 1px solid gray;
+}
+/* ==================================== */
+/* SIGNUPFORM */
+/* ===================================== */
+
+.eye-icon:hover{
+   cursor: pointer;
+}
+
+.signup-panel img{
+   width: 150px;
+}

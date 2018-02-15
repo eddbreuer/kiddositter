@@ -1,0 +1,22 @@
+/* ================================================ */
+/* IconSize and icon collors */
+/* ================================================ */
+.i2x{
+   font-size: 1.5em;
+}
+.i3x{
+   font-size:2em;
+}
+.i4x{
+   font-size:2.5em;
+}
+.i5x{
+   font-size: 3em;
+}
+.i6x{
+   font-size: 3.5;
+}
+
+.iblue{
+   color: blue
+}
